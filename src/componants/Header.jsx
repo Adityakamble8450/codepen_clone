@@ -14,7 +14,7 @@ const Container = styled(AppBar)`
 const Header = () => {
   const logo =
     "https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png";
-  const githubUrl = "https://aditya-portfolio-chi.vercel.app/";
+  const githubUrl = "https://github.com/Adityakamble8450/codepen_clone.git";
   const languageUrl = "https://aditya-portfolio-chi.vercel.app/";
 
   return (
